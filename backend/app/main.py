@@ -4,6 +4,11 @@ from contextlib import asynccontextmanager
  
 from app.core.config import settings
 from app.core.database import Database
+from app.api import auth        # Phase 2
+from app.api import documents   # Phase 3
+from app.api import chat        # Phase 5
+from app.api import devices     # Phase 5
+
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
