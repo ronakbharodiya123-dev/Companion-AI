@@ -1,0 +1,114 @@
+[
+  {
+    "id": "LAP-1",
+    "question": "My ASUS VivoBook 14 laptop is overheating and shutting down. What should I check?",
+    "device_type": "Laptop",
+    "brand": "Asus",
+    "model": "VivoBook 14",
+    "expected_keywords": ["fan", "heat", "ventilation", "temperature", "thermal"]
+  },
+  {
+    "id": "LAP-2",
+    "question": "The battery on my ASUS VivoBook 14 is draining very fast. How do I fix it?",
+    "device_type": "Laptop",
+    "brand": "Asus",
+    "model": "VivoBook 14",
+    "expected_keywords": ["battery", "power", "charge", "drain", "settings"]
+  },
+  {
+    "id": "LAP-3",
+    "question": "How do I connect my ASUS VivoBook 14 to a WiFi network?",
+    "device_type": "Laptop",
+    "brand": "Asus",
+    "model": "VivoBook 14",
+    "expected_keywords": ["wifi", "wireless", "network", "connect", "internet"]
+  },
+  {
+    "id": "HAIER-1",
+    "question": "My Haier HRF-370 refrigerator is not cooling properly. What are the causes?",
+    "device_type": "Refrigerator",
+    "brand": "Haier",
+    "model": "HRF-370",
+    "expected_keywords": ["cool", "temperature", "compressor", "thermostat", "fan"]
+  },
+  {
+    "id": "HAIER-2",
+    "question": "The Haier HRF-370 refrigerator is making a strange noise. How do I troubleshoot it?",
+    "device_type": "Refrigerator",
+    "brand": "Haier",
+    "model": "HRF-370",
+    "expected_keywords": ["noise", "vibration", "compressor", "level", "sound"]
+  },
+  {
+    "id": "LG-EC-1",
+    "question": "How do I adjust the temperature settings on the LG EXPRESS-COOL refrigerator?",
+    "device_type": "Refrigerator",
+    "brand": "LG",
+    "model": "EXPRESS-COOL",
+    "expected_keywords": ["temperature", "setting", "control", "adjust", "cool"]
+  },
+  {
+    "id": "LG-EC-2",
+    "question": "The LG EXPRESS-COOL refrigerator door is not sealing properly. What should I do?",
+    "device_type": "Refrigerator",
+    "brand": "LG",
+    "model": "EXPRESS-COOL",
+    "expected_keywords": ["door", "seal", "gasket", "close", "leak"]
+  },
+  {
+    "id": "LG-LR-1",
+    "question": "The ice maker on my LG LRFLC2706 refrigerator stopped working. How do I fix it?",
+    "device_type": "Refrigerator",
+    "brand": "LG",
+    "model": "LRFLC2706",
+    "expected_keywords": ["ice", "maker", "water", "freeze", "dispenser"]
+  },
+  {
+    "id": "LG-LR-2",
+    "question": "My LG LRFLC2706 refrigerator is showing an error code on the display. What does it mean?",
+    "device_type": "Refrigerator",
+    "brand": "LG",
+    "model": "LRFLC2706",
+    "expected_keywords": ["error", "code", "display", "reset", "alarm"]
+  },
+  {
+    "id": "SAM-RF-1",
+    "question": "How do I reset the Samsung RF28R7351SR refrigerator to factory settings?",
+    "device_type": "Refrigerator",
+    "brand": "Samsung",
+    "model": "RF28R7351SR",
+    "expected_keywords": ["reset", "factory", "settings", "control", "panel"]
+  },
+  {
+    "id": "SAM-RF-2",
+    "question": "The water dispenser on my Samsung RF28R7351SR refrigerator is leaking. What should I do?",
+    "device_type": "Refrigerator",
+    "brand": "Samsung",
+    "model": "RF28R7351SR",
+    "expected_keywords": ["water", "dispenser", "leak", "filter", "valve"]
+  },
+  {
+    "id": "TV-1",
+    "question": "My Samsung QLED Q7F TV has no picture but the sound is working. How do I fix it?",
+    "device_type": "TV",
+    "brand": "Samsung",
+    "model": "QLED-Q7F",
+    "expected_keywords": ["picture", "display", "backlight", "input", "source"]
+  },
+  {
+    "id": "TV-2",
+    "question": "How do I connect the Samsung QLED Q7F TV to the internet?",
+    "device_type": "TV",
+    "brand": "Samsung",
+    "model": "QLED-Q7F",
+    "expected_keywords": ["internet", "wifi", "network", "smart", "connect"]
+  },
+  {
+    "id": "TV-3",
+    "question": "The Samsung QLED Q7F TV remote control is not working. What should I check?",
+    "device_type": "TV",
+    "brand": "Samsung",
+    "model": "QLED-Q7F",
+    "expected_keywords": ["remote", "battery", "sensor", "control", "pair"]
+  }
+]

@@ -5,10 +5,11 @@ These models represent collections in MongoDB.
 
 from beanie import Document, Indexed, Link
 from pydantic import Field, EmailStr
-from typing import Optional, List, Dict, Any
+from typing import Optional, List, Dict, Any, Annotated
 from datetime import datetime, timezone
 from enum import Enum
 import uuid
+from pymongo import ASCENDING
 
 
 class DocumentStatus(str, Enum):

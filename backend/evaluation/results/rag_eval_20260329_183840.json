@@ -1,0 +1,439 @@
+{
+  "timestamp": "20260329_183840",
+  "results": [
+    {
+      "id": "LAP-1",
+      "question": "My ASUS VivoBook 14 laptop is overheating and shutting down. What should I check?",
+      "device_type": "Laptop",
+      "brand": "Asus",
+      "model": "VivoBook 14",
+      "num_chunks_retrieved": 5,
+      "avg_relevance_score": 0.431,
+      "context_relevance": 0.431,
+      "keyword_in_context": 0.4,
+      "retrieval_ms": 279.7,
+      "answer": "If your ASUS VivoBook 14 laptop is overheating and shutting down, there are a few things you should check. First, make sure that the air vents on your laptop are not blocked by anything, like paper, books, or clothing. It's also important to keep your laptop on a flat, stable surface that allows for good airflow. \n\nHere are some steps to help you troubleshoot:\n1. Check that the air vents are clear and not blocked.\n2. Ensure your laptop is on a surface that allows for good airflow.\n3. Avoid placing your laptop on your lap or near any part of your body, as it can get warm to hot during use or charging.\n4. Consider checking your surroundings to ensure the ambient temperature is between 5\u00b0C (41\u00b0F) and 35\u00b0C (95\u00b0F).\n\nRemember to handle your laptop with care, and if the issue persists, you may want to contact an authorized ASUS service center for assistance.\n\n\ud83d\udcd6 Source:",
+      "faithfulness": 0.583,
+      "keyword_in_answer": 0.4,
+      "generation_ms": 1744.3,
+      "total_ms": 2024.0,
+      "chunk_preview": [
+        {
+          "content": "on and blinks slowly when the Notebook PC is in sleep mode.\nNotebook PC E-Manual 17\nBottom View\nNOTE: The bottom view ma",
+          "score": 0.453
+        },
+        {
+          "content": "= Use the touchpad.\n= Use the keyboard.\nTypography\nBold = This indicates a menu or an item that must be selected.\nItalic",
+          "score": 0.448
+        },
+        {
+          "content": "updated too.\n\u2022 Unless absolutely necessary, refrain from using force shutdown to\nturn off your Notebook PC.\n\u2022 Always bac",
+          "score": 0.432
+        }
+      ]
+    },
+    {
+      "id": "LAP-2",
+      "question": "The battery on my ASUS VivoBook 14 is draining very fast. How do I fix it?",
+      "device_type": "Laptop",
+      "brand": "Asus",
+      "model": "VivoBook 14",
+      "num_chunks_retrieved": 5,
+      "avg_relevance_score": 0.452,
+      "context_relevance": 0.452,
+      "keyword_in_context": 0.8,
+      "retrieval_ms": 263.2,
+      "answer": "To help fix your ASUS VivoBook 14's battery draining issue, you can try a few things. First, adjust the display brightness using the function keys, as a brighter screen can consume more power. If you're not using Wi-Fi, switch to Airplane mode to disable it. Also, disconnect any unused USB devices, as they can draw power even when not in use. Lastly, close any unused applications, especially those that use a lot of system memory, as they can also drain your battery quickly. Remember to keep your Notebook PC on a hard, flat surface to ensure good airflow and prevent overheating, which can also affect battery life. \n\n\ud83d\udcd6 Source:",
+      "faithfulness": 0.643,
+      "keyword_in_answer": 0.6,
+      "generation_ms": 1220.7,
+      "total_ms": 1483.9,
+      "chunk_preview": [
+        {
+          "content": "Software FAQs\n1. When I turn on my Notebook PC, the power indicator lights\nup but nothing appears on my screen. What can",
+          "score": 0.49
+        },
+        {
+          "content": "center.\n2. My display panel has an uneven color and brightness. How\ncan I fix this?\nThe color and brightness of your dis",
+          "score": 0.468
+        },
+        {
+          "content": "occur.\nAudio speakers\nThe built-in audio speakers allow you to hear audio straight from\nyour Notebook PC. Audio features",
+          "score": 0.441
+        }
+      ]
+    },
+    {
+      "id": "LAP-3",
+      "question": "How do I connect my ASUS VivoBook 14 to a WiFi network?",
+      "device_type": "Laptop",
+      "brand": "Asus",
+      "model": "VivoBook 14",
+      "num_chunks_retrieved": 5,
+      "avg_relevance_score": 0.411,
+      "context_relevance": 0.411,
+      "keyword_in_context": 1.0,
+      "retrieval_ms": 239.5,
+      "answer": "To connect your ASUS VivoBook 14 to a WiFi network, you'll need to follow these steps:\n1. Make sure Airplane mode is turned off, as it disables WiFi.\n2. Select the WiFi icon from the taskbar.\n3. Click the icon to enable WiFi.\n4. Choose an available WiFi network from the list.\n5. Click \"Connect\" to start the connection - you might be prompted to enter a security key.\n\nRemember to keep an eye on your Airplane mode, as it can affect your WiFi connection. \n\n\ud83d\udcd6 Source:",
+      "faithfulness": 0.9,
+      "keyword_in_answer": 0.6,
+      "generation_ms": 1249.4,
+      "total_ms": 1488.9,
+      "chunk_preview": [
+        {
+          "content": "Opens the context menu of the Start button\nLaunches the magnifier icon and zooms in\nyour screen\nZooms out your screen\n52",
+          "score": 0.523
+        },
+        {
+          "content": "Connecting to wireless networks ........................................................................53\nWi-Fi .......",
+          "score": 0.419
+        },
+        {
+          "content": "Manualslib.com - The Global Manuals Library\nManuals / Brands / Asus Manuals / Laptop / VivoBook 14 / Manual / PDF\nASUS V",
+          "score": 0.416
+        }
+      ]
+    },
+    {
+      "id": "HAIER-1",
+      "question": "My Haier HRF-370 refrigerator is not cooling properly. What are the causes?",
+      "device_type": "Refrigerator",
+      "brand": "Haier",
+      "model": "HRF-370",
+      "num_chunks_retrieved": 5,
+      "avg_relevance_score": 0.537,
+      "context_relevance": 0.537,
+      "keyword_in_context": 0.8,
+      "retrieval_ms": 246.7,
+      "answer": "If your Haier HRF-370 refrigerator is not cooling properly, there are a few things to check. First, make sure the appliance is standing evenly on the floor and that there's nothing blocking the condenser at the back. Also, check that the doors are closing properly and that the seals are intact - you can test this by placing a sheet of paper between the seal and the door, and it should be hard to pull out when the door is closed. \n\nIt's also possible that the settings on the control panel are not correct, or that the thermostat is set too high. You might need to adjust the temperature setting to a lower level. Additionally, if you've recently added a lot of food to the fridge, this could be causing the issue, so try to reduce the amount of food stored or turn the thermostat to a lower setting.\n\nRemember, it's also important to ensure the appliance is not positioned near a heat source and that the ambient temperature of the room is within the recommended range. And, as a safety tip, never try to make any repairs yourself - if you're still having issues, it's best to contact a professional.\n\n\ud83d\udcd6 Source:",
+      "faithfulness": 0.986,
+      "keyword_in_answer": 0.6,
+      "generation_ms": 1325.5,
+      "total_ms": 1572.2,
+      "chunk_preview": [
+        {
+          "content": "- the refrigerator is not positioned near a heat source; - Check that there are no bottles or containers touching.\n- the",
+          "score": 0.612
+        },
+        {
+          "content": "resulting bills for after-sales service, check first of all whether\nyou have fully observed all the advice and recommend",
+          "score": 0.551
+        },
+        {
+          "content": "a clockwise direction from the \u201cOFF\u201dposition to a setting wed down.Temperature influences the speed at which\nthat corres",
+          "score": 0.511
+        }
+      ]
+    },
+    {
+      "id": "HAIER-2",
+      "question": "The Haier HRF-370 refrigerator is making a strange noise. How do I troubleshoot it?",
+      "device_type": "Refrigerator",
+      "brand": "Haier",
+      "model": "HRF-370",
+      "num_chunks_retrieved": 5,
+      "avg_relevance_score": 0.454,
+      "context_relevance": 0.454,
+      "keyword_in_context": 0.4,
+      "retrieval_ms": 328.7,
+      "answer": "If your Haier HRF-370 refrigerator is making a strange noise, let's go through some troubleshooting steps. \n\n1. Check that the appliance is standing evenly on the floor and that nearby furniture or items aren't vibrating when the compressor is running.\n2. Ensure the doors close properly and no air can enter the compartments. You can test this by placing a sheet of paper between the seal and the door - it should be difficult to pull out when the door is closed.\n3. Verify that the settings on the control panel are correct and the refrigerator isn't positioned near a heat source.\n4. Make sure the condenser is clean and has good air circulation at the rear of the appliance. Also, check that there are no bottles or containers touching the appliance.\n\nRemember, some noises, like those from the circulation of liquid in the refrigerant circuit, are normal and unavoidable. If the issue persists, it's best to contact the after-sales service agent for assistance. And, as a safety tip, never try to make any repairs to the appliance yourself.\n\n\ud83d\udcd6 Source:",
+      "faithfulness": 1.0,
+      "keyword_in_answer": 0.4,
+      "generation_ms": 1329.7,
+      "total_ms": 1658.5,
+      "chunk_preview": [
+        {
+          "content": "resulting bills for after-sales service, check first of all whether\nyou have fully observed all the advice and recommend",
+          "score": 0.556
+        },
+        {
+          "content": "- the refrigerator is not positioned near a heat source; - Check that there are no bottles or containers touching.\n- the",
+          "score": 0.486
+        },
+        {
+          "content": "the same as the display range.The alarm can be silen- ambient temperature is greater than 25\u00b0C.\nced by pressing B and C ",
+          "score": 0.417
+        }
+      ]
+    },
+    {
+      "id": "LG-EC-1",
+      "question": "How do I adjust the temperature settings on the LG EXPRESS-COOL refrigerator?",
+      "device_type": "Refrigerator",
+      "brand": "LG",
+      "model": "EXPRESS-COOL",
+      "num_chunks_retrieved": 5,
+      "avg_relevance_score": 0.528,
+      "context_relevance": 0.528,
+      "keyword_in_context": 1.0,
+      "retrieval_ms": 366.6,
+      "answer": "To adjust the temperature settings on your LG EXPRESS-COOL refrigerator, you can use the specially designed temperature control knob. This knob allows you to control the temperature inside the refrigerator. Just turn the knob to your desired setting - it's pretty straightforward. Remember to also check the defrosting settings and the thermostat to ensure everything is working properly. \n\n\ud83d\udcd6 Source: LG EXPRESS COOL.pdf",
+      "faithfulness": 0.458,
+      "keyword_in_answer": 1.0,
+      "generation_ms": 1269.9,
+      "total_ms": 1636.4,
+      "chunk_preview": [
+        {
+          "content": "Manualslib.com - Simplified Manuals\nManuals / Brands / LG Manuals / Refrigerator / GL-281* / Owner's manual / PDF\nLG EXP",
+          "score": 0.653
+        },
+        {
+          "content": "Chiller tray. the Chiller tray bottom. Avoid too frequent door openings.\n6. Smell and odour. \u2013 Improper covering Wrap an",
+          "score": 0.517
+        },
+        {
+          "content": "flavours and to keep the food from drying. Do not store liquids in bottles in the freezer compartment since there is\ndan",
+          "score": 0.512
+        }
+      ]
+    },
+    {
+      "id": "LG-EC-2",
+      "question": "The LG EXPRESS-COOL refrigerator door is not sealing properly. What should I do?",
+      "device_type": "Refrigerator",
+      "brand": "LG",
+      "model": "EXPRESS-COOL",
+      "num_chunks_retrieved": 5,
+      "avg_relevance_score": 0.556,
+      "context_relevance": 0.556,
+      "keyword_in_context": 0.4,
+      "retrieval_ms": 306.2,
+      "answer": "If your LG EXPRESS-COOL refrigerator door is not sealing properly, you should contact a serviceman to check the door seal for proper and uniform contact with the cabinet. This is especially important during humid weather when moisture can form around the sides of the refrigerator cabinet. \n\nHere are some steps you can take:\n1. Check if the door is being opened too frequently, as this can cause hot air to rush in and affect the seal.\n2. Ensure that the door is not being kept open for more than 30 seconds at a time.\n3. Check for any blockages or obstructions that might be preventing the door from sealing properly.\n4. If the issue persists, it's best to have a professional check the door seal.\n\nRemember to always follow safety guidelines and precautions when using your refrigerator. \n\ud83d\udcd6 Source:",
+      "faithfulness": 0.772,
+      "keyword_in_answer": 0.4,
+      "generation_ms": 1329.7,
+      "total_ms": 1635.9,
+      "chunk_preview": [
+        {
+          "content": "\u2013 Entry of hot air. Opening and closing of the door too often will result in hot air from outside rushing\ninto the refri",
+          "score": 0.581
+        },
+        {
+          "content": "flavours and to keep the food from drying. Do not store liquids in bottles in the freezer compartment since there is\ndan",
+          "score": 0.57
+        },
+        {
+          "content": "Before Calling for Service\nCheck for yourself\nType of Complaint Probable Cause Remedy\n1. Refrigerator does \u2013Thermostat s",
+          "score": 0.552
+        }
+      ]
+    },
+    {
+      "id": "LG-LR-1",
+      "question": "The ice maker on my LG LRFLC2706 refrigerator stopped working. How do I fix it?",
+      "device_type": "Refrigerator",
+      "brand": "LG",
+      "model": "LRFLC2706",
+      "num_chunks_retrieved": 5,
+      "avg_relevance_score": 0.533,
+      "context_relevance": 0.533,
+      "keyword_in_context": 0.8,
+      "retrieval_ms": 307.5,
+      "answer": "If your ice maker has stopped working, let's try a few things. First, make sure the ice maker is turned on - you can do this by pressing and holding the Cubed Ice button for three seconds. If it's already on, try resetting it. Also, ensure the freezer door is closing properly, as the ice maker won't work if the door is open. \n\nTo troubleshoot further, you can check the error code on your display by pressing the \"Ice Plus\" and \"Freezer Temp\" buttons for 3 seconds. This might give you an idea of what's going on. \n\nIf none of these steps work, it's possible there's a more serious issue, like a problem with the sensor or the ice maker itself. In that case, you might need to consult a professional for help.\n\nRemember to always follow safety precautions when working with electrical appliances. \n\n\ud83d\udcd6 Source: LG LRFLC2706 Series.pdf",
+      "faithfulness": 0.475,
+      "keyword_in_answer": 0.6,
+      "generation_ms": 5521.2,
+      "total_ms": 5828.7,
+      "chunk_preview": [
+        {
+          "content": "All rights reserved. Only training and service purposes\nTrouble Shooting with Error Display\nSTEP 1. Check Error Code\nThe",
+          "score": 0.542
+        },
+        {
+          "content": "\u201cNot Cooling\u201d Complaint\nAll components operating, No airflow problems, Not frosted up as a defrost\nproblem\nproblem has b",
+          "score": 0.537
+        },
+        {
+          "content": "-87- Copyright \u00a9 LG Electronics Inc.\nAll rights reserved. Only training and service purposes\nDescription of Function & C",
+          "score": 0.535
+        }
+      ]
+    },
+    {
+      "id": "LG-LR-2",
+      "question": "My LG LRFLC2706 refrigerator is showing an error code on the display. What does it mean?",
+      "device_type": "Refrigerator",
+      "brand": "LG",
+      "model": "LRFLC2706",
+      "num_chunks_retrieved": 5,
+      "avg_relevance_score": 0.564,
+      "context_relevance": 0.564,
+      "keyword_in_context": 0.6,
+      "retrieval_ms": 849.0,
+      "answer": "It sounds like your LG refrigerator is displaying an error code. To figure out what's going on, you'll need to check the error code on the display. The code will give you an idea of what's causing the issue. \n\nHere's how you can check the error code:\n1. Press the \"Ice Plus\" and \"Freezer Temp\" buttons simultaneously for 3 seconds.\n2. The error code should appear on the display.\n\nThe error code will be one of the codes listed, such as \"E FS\" for a freezer sensor error or \"E rS\" for a refrigerator sensor error. Once you know the error code, you can start troubleshooting the issue. Remember to always turn off the power and wait for the voltage to discharge before checking any resistance values to avoid any safety risks.\n\n\ud83d\udcd6 Source: LG LRFLC2706 Series.pdf",
+      "faithfulness": 0.699,
+      "keyword_in_answer": 0.6,
+      "generation_ms": 10575.5,
+      "total_ms": 11424.5,
+      "chunk_preview": [
+        {
+          "content": "Error Code Summary \u2460\n\u2461\nWARNING\nWhen checking Resistance values, make sure to turn\noff the power, and wait for the voltag",
+          "score": 0.579
+        },
+        {
+          "content": "PCB Picture\nTrouble Shooting with Error Display\nTEST MODE and Removing TPA\nReference\nComponent Testing Information\nDefro",
+          "score": 0.572
+        },
+        {
+          "content": "All rights reserved. Only training and service purposes\nTrouble Shooting with Error Display\nSTEP 1. Check Error Code\nThe",
+          "score": 0.567
+        }
+      ]
+    },
+    {
+      "id": "SAM-RF-1",
+      "question": "How do I reset the Samsung RF28R7351SR refrigerator to factory settings?",
+      "device_type": "Refrigerator",
+      "brand": "Samsung",
+      "model": "RF28R7351SR",
+      "num_chunks_retrieved": 5,
+      "avg_relevance_score": 0.544,
+      "context_relevance": 0.544,
+      "keyword_in_context": 0.6,
+      "retrieval_ms": 662.2,
+      "answer": "I don't have enough detail in the available manuals for that. Please check the full manual or contact support. \n\ud83d\udcd6 Source:",
+      "faithfulness": 0.375,
+      "keyword_in_answer": 0.0,
+      "generation_ms": 7885.6,
+      "total_ms": 8547.8,
+      "chunk_preview": [
+        {
+          "content": "responsible for safety issues that result from 3rd party\nmodifications.\n\u2022 Do not block the air vents inside the refriger",
+          "score": 0.562
+        },
+        {
+          "content": "prevent this, remove the residual ice from the chute using a soft, clean cloth.\nRubber seals\nIf the rubber seals of a do",
+          "score": 0.548
+        },
+        {
+          "content": "contact your nearest service center.\n- Failing to do so may result in an electric shock, fire,\nproblems with the product",
+          "score": 0.543
+        }
+      ]
+    },
+    {
+      "id": "SAM-RF-2",
+      "question": "The water dispenser on my Samsung RF28R7351SR refrigerator is leaking. What should I do?",
+      "device_type": "Refrigerator",
+      "brand": "Samsung",
+      "model": "RF28R7351SR",
+      "num_chunks_retrieved": 5,
+      "avg_relevance_score": 0.62,
+      "context_relevance": 0.62,
+      "keyword_in_context": 1.0,
+      "retrieval_ms": 815.5,
+      "answer": "If your water dispenser is leaking, you should first check if the water line is properly connected. If that's not the issue, try removing and reinserting the water tank. Also, make sure to wipe around the infuser holder in case of an overflow or leak. If the Auto Water Fill indicator is blinking, open the rubber cap to drain the leaked water. However, if the indicator continues to blink after that, it might be a system failure, and you should contact your local Samsung service center. Remember to always use caution when dealing with water and electricity, and if you're not sure about something, it's best to consult a professional. \n\ud83d\udcd6 Source:",
+      "faithfulness": 0.963,
+      "keyword_in_answer": 0.6,
+      "generation_ms": 10130.7,
+      "total_ms": 10946.1,
+      "chunk_preview": [
+        {
+          "content": "A 3. Open the main water valve and check\nfor any leaks.\n4. If there are no leaks, dispense about a\na\n3 liters of water b",
+          "score": 0.669
+        },
+        {
+          "content": "responsible for safety issues that result from 3rd party\nmodifications.\n\u2022 Do not block the air vents inside the refriger",
+          "score": 0.655
+        },
+        {
+          "content": "For more information or servicing, contact a licensed plumbing professional.\nOrdering a new filter\nTo purchase a new wat",
+          "score": 0.6
+        }
+      ]
+    },
+    {
+      "id": "TV-1",
+      "question": "My Samsung QLED Q7F TV has no picture but the sound is working. How do I fix it?",
+      "device_type": "TV",
+      "brand": "Samsung",
+      "model": "QLED-Q7F",
+      "num_chunks_retrieved": 5,
+      "avg_relevance_score": 0.535,
+      "context_relevance": 0.535,
+      "keyword_in_context": 0.8,
+      "retrieval_ms": 822.7,
+      "answer": "That's frustrating. Let's try to fix the issue with your Samsung QLED Q7F TV. Since you have sound but no picture, here are some steps to follow:\n\n1. Make sure the connection to the device is correct and all cables are fully inserted.\n2. Remove and reconnect all cables connected to the TV and the external devices. Try new cables if possible.\n3. Confirm that the correct input source has been selected (check the Source option).\n4. Perform a TV self-diagnosis to determine if the problem is caused by the TV or the device (go to Settings > Support > Self Diagnosis > Start Picture Test).\n\nIf none of these steps work, you may want to refer to the troubleshooting section in the e-Manual or visit Samsung's support website for more detailed information.\n\nRemember to always handle your TV with care, and if you're unsure about anything, it's best to consult the user manual or contact Samsung's customer support.\n\n\ud83d\udcd6 Source: Samsung QLED TV Q7F.pdf",
+      "faithfulness": 1.0,
+      "keyword_in_answer": 0.6,
+      "generation_ms": 8704.1,
+      "total_ms": 9526.8,
+      "chunk_preview": [
+        {
+          "content": "support\n85 Challenger Road\nRidgefield Park, NJ 07660\naccessibility contact information in U.S.A. : accessibility@sea.sam",
+          "score": 0.595
+        },
+        {
+          "content": "\u2022 Confirm that the correct input source has been selected ( > Source).\n\u2022 Perform a TV self diagnosis to determine if the",
+          "score": 0.566
+        },
+        {
+          "content": "product.\n\u2022 To keep your TV in optimum condition, upgrade to the latest software. Use the Update Now or Auto Update\nfunct",
+          "score": 0.528
+        }
+      ]
+    },
+    {
+      "id": "TV-2",
+      "question": "How do I connect the Samsung QLED Q7F TV to the internet?",
+      "device_type": "TV",
+      "brand": "Samsung",
+      "model": "QLED-Q7F",
+      "num_chunks_retrieved": 5,
+      "avg_relevance_score": 0.479,
+      "context_relevance": 0.479,
+      "keyword_in_context": 0.8,
+      "retrieval_ms": 697.8,
+      "answer": "To connect your Samsung QLED Q7F TV to the internet, you'll need to make sure it has a network connection. Here's what you can do:\n1. Go to the TV's settings menu.\n2. Select 'General', then 'Network', and finally 'Network Status'.\n3. Ensure the Wi-Fi password is entered correctly.\n4. Check that the distance between the TV and your modem/router is not more than 50 feet.\n5. Try to reduce interference from other devices and obstacles between the TV and the modem/router.\n\nAlso, remember to keep your router's management settings secure with a unique password and use standard encryption like WPA2 to protect your wireless network signal.\n\n\ud83d\udcd6 Source:",
+      "faithfulness": 1.0,
+      "keyword_in_answer": 0.6,
+      "generation_ms": 8258.9,
+      "total_ms": 8956.7,
+      "chunk_preview": [
+        {
+          "content": "\u2022 If your TV came with a Samsung Smart Remote (Bluetooth Remote), make sure to pair the remote to the TV.\n(Please refer ",
+          "score": 0.493
+        },
+        {
+          "content": "between the TV and the Modem/Router. (The Wi-Fi strength can be decreased by appliances, cordless phones,\nstone walls/fi",
+          "score": 0.489
+        },
+        {
+          "content": "support\n85 Challenger Road\nRidgefield Park, NJ 07660\naccessibility contact information in U.S.A. : accessibility@sea.sam",
+          "score": 0.484
+        }
+      ]
+    },
+    {
+      "id": "TV-3",
+      "question": "The Samsung QLED Q7F TV remote control is not working. What should I check?",
+      "device_type": "TV",
+      "brand": "Samsung",
+      "model": "QLED-Q7F",
+      "num_chunks_retrieved": 5,
+      "avg_relevance_score": 0.576,
+      "context_relevance": 0.576,
+      "keyword_in_context": 0.8,
+      "retrieval_ms": 666.8,
+      "answer": "If your Samsung QLED Q7F TV remote control isn't working, there are a few things you can check. First, make sure the power indicator on the TV blinks when you press the remote's Power button. If it doesn't, try replacing the remote control's batteries. Also, ensure the batteries are installed with their poles (+/\u2013) in the correct direction. If you're using a Samsung Smart Remote, check that it's paired to the TV. Additionally, try pointing the remote directly at the TV from about 5 to 6 feet away. If none of these steps work, you may want to refer to the e-Manual for further instructions or contact support.\n\n\ud83d\udcd6 Source: Samsung QLED TV Q7F.pdf",
+      "faithfulness": 1.0,
+      "keyword_in_answer": 0.6,
+      "generation_ms": 8395.5,
+      "total_ms": 9062.4,
+      "chunk_preview": [
+        {
+          "content": "support\n85 Challenger Road\nRidgefield Park, NJ 07660\naccessibility contact information in U.S.A. : accessibility@sea.sam",
+          "score": 0.611
+        },
+        {
+          "content": "\u2022 Confirm that the correct input source has been selected ( > Source).\n\u2022 Perform a TV self diagnosis to determine if the",
+          "score": 0.601
+        },
+        {
+          "content": "product.\n\u2022 To keep your TV in optimum condition, upgrade to the latest software. Use the Update Now or Auto Update\nfunct",
+          "score": 0.575
+        }
+      ]
+    }
+  ]
+}
